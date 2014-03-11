@@ -5,9 +5,9 @@ node_js:
 addons:
   sauce_connect:
     username:
-      secure: THTV4yTFsCh0Np0Qw+kPivdk9RF7HbNwmuUYupArNLlXUyDj7DBwomGEXwPfFMRP+uQrI+LQYp1IdXpmdgkYumuVDy/Jlt21joXKp6LN5ALbB94AjGGgTc0jQrgQTfNL5/KxxHYGOqmlzp9HH7aaNQCE3BXZGMvMAqJyDiRtkCA=
+      secure: OYPXD1BzAtJ5re0xAZcCK+3bh6ZoM4Cu3Qhhregyd/QkTl1FWU05pIz07HNsnnn/PSzl6+KgYqjZs4h8RqMHcNlvj5JChYjYD3hRj7Cnh2ldEAO3KPQkKLiBZBknI1OmloZo7Aw0I+DAsedXAAmZ0hPCHOfbazYM6C75IcxdlDs=
     access_key:
-      secure: HsfA/KDVV4I1Ywt1ILkY9y4n+F6ZJowBTzZn8/cnfbWEAZdSUaDM7cwdGmHMYqm4xTBO9nlHdL+Wad1I8tZmVM9akxoJRdgbMR7m2BjvJwrkN83tp8MayI20M56bhzC/Sb3iY5J8c8BANGRX3JZ43Zy3tqTzb68mqOsZqMhZ/+A=
+      secure: LjjeO9JwPznbNwIWs4OSEhWaiNhRcY1XdQdCJwNnc7SaxwcFpk/iYwpMZfnWULdNSiuTW2/kE5aHLWjeu1Bxz9xcbm5UITgXOGXeDdFNXVef0xvICqWTNyTNuvtKj4kwrJEqtBK4dH1V0XgZgLHJaTywkQnbBunCrhIGanTBJ5U=
 env:
   matrix:
     - "BROWSER_NAME='firefox' BROWSER_VERSION='21' PLATFORM='Windows XP'"
